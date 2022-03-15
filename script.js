@@ -1,5 +1,5 @@
 const API_LINK = "https://api.adviceslip.com/advice";
-const adviceNumberSpan = document.querySelector('.advice-gen__advice-number')
+const adviceNumberSpan = document.querySelector('.advice-gen__advice-num')
 const adviceQuoteSlot= document.querySelector('.advice-gen__quote')
 const fetchBtn = document.querySelector('button.advice-gen__btn')
 
